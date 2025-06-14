@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="sound">
+    <file>minecraft_click.wav</file>
+  </qresource>
+</RCC>
